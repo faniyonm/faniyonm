@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Faniyo
 
 🎓 Undergraduate in **Data Science & Analytics**  
-📍 Based in Kenya | 📊 Passionate about data-driven problem-solving  
+📍 Based in Kenya |Passionate about data-driven problem-solving  
 💡 Focused on analytics, machine learning, and real-world impact
 
 ---

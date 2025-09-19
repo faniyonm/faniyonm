@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Faniyo
 
-🎓 Third-year undergraduate in **Data Science & Analytics**  
+🎓 Undergraduate in **Data Science & Analytics**  
 📍 Based in Kenya | 📊 Passionate about data-driven problem-solving  
 💡 Focused on analytics, machine learning, and real-world impact
 
 ---
 
 ## 🛠️ Tools & Languages I Use
-- Python | R | SQL  
-- Power BI | Excel | scikit-learn | pandas | matplotlib
+- Python | R | SQL |Power BI | Excel | scikit-learn | pandas | matplotlib | NLP
 
 ---
 
